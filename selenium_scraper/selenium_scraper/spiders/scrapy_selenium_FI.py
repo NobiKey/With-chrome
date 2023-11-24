@@ -2,7 +2,6 @@ import scrapy
 from time import sleep
 from scrapy_selenium import SeleniumRequest
 from selenium.webdriver.common.by import By
-from datos_fabricaisleta import limp_precios, limp_hora, limp_lugar
 
 class ScrapySeleniumPruebaFiSpider(scrapy.Spider):
     name = "scrapy-selenium-FI"
@@ -90,3 +89,27 @@ class ScrapySeleniumPruebaFiSpider(scrapy.Spider):
                 break
 
         driver.close()
+
+def limp_lugar(lugar):
+    lugar = lugar.split()
+    Lugar = str()
+    for i in lugar[1:]:
+        Lugar += (i + ' ')
+    Lugar = Lugar[:-1]
+
+    return Lugar
+
+def limp_hora(hora):
+    hora = hora.split()
+    Hora = hora[-1]
+
+    return Hora
+
+def limp_precios(precios):
+    precios = precios.split("\n")
+    Precios = str()
+    for i in precios:
+        Precios += (i + ', ')
+    Precios = Precios[:-2]
+
+    return Precios

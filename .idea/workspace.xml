@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="120290c9-6d3e-4a07-a1e9-3ad51cbc0d55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scrapy-selenium-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/E.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/FI.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/TT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/datos_entrees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/datos_fabricaisleta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/datos_tomaticket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/scrapy_selenium_E.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/scrapy_selenium_E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/scrapy_selenium_FI.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/scrapy_selenium_FI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/scrapy_selenium_TT.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_scraper/selenium_scraper/spiders/scrapy_selenium_TT.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ydgvjw8i2NrsZuNvvyFdFZEiSz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="120290c9-6d3e-4a07-a1e9-3ad51cbc0d55" name="Changes" comment="" />
+      <created>1700861103954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700861103954</updated>
+    </task>
+    <servers />
+  </component>
+</project>

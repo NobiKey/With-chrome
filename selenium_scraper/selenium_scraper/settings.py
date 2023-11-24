@@ -57,7 +57,7 @@ DOWNLOADER_MIDDLEWARES = {
 }
 SELENIUM_DRIVER_ARGUMENTS = ["--headless=new"]
 SELENIUM_DRIVER_NAME = 'chrome'
-SELENIUM_DRIVER_EXECUTABLE_PATH ='https://www.fabricaisleta.com/eventos/'
+SELENIUM_DRIVER_EXECUTABLE_PATH ='chrome'
 SCRAPEOPS_API_KEY = '27202315-9fd7-41d8-94e4-213684dbe71c'
 EXTENSIONS = {
         'scrapeops_scrapy.extension.ScrapeOpsMonitor': 500,
